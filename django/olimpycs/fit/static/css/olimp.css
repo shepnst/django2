@@ -1,0 +1,47 @@
+h1 a{
+    color: #321C8C;
+    font-family: Marker Felt, fantasy;
+    opacity: 1;
+}
+h1{
+    color:black;
+    font-family: Marker Felt, fantasy;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: centers;
+}
+.list{
+    background-color: #CEAFF6;
+    opacity: 0.5;
+    padding: 10px 10px 10px 20px;
+}
+h2{
+   font-family:Marker Felt, fantasy;
+}
+body {
+    padding-left: 15px;
+    background-image: url(https://t3.ftcdn.net/jpg/04/05/80/88/360_F_405808828_lwfcYW72K3i3IsZQayyHg9kEqHpRrrET.jpg);
+}
+.page-header{
+    background-color: rgb(222, 151, 253);
+    padding: 20px 20px 20px 40px;
+    margin-top: 0;
+    opacity: 0.7;
+}
+.page-header-2{
+        text-align: center;
+        opacity: 1;
+}
+
+.olimptext{
+    opacity: 1;
+    text-align: center;
+}
+.olimpiad{
+    background-color: white;
+    opacity: 0.7;
+}
+.textdesc{
+    font-family: Marker Felt, fantasy;
+    text-align: center;
+}
